@@ -1,0 +1,6 @@
+server:
+  port: 8082
+
+alprkeskin:
+  consumed-urls:
+    customer: "http://localhost:8081/customer/"
